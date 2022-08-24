@@ -1,0 +1,21 @@
+Ques 1 :- What exactly is Tableau?
+Ans :- Tableau is an excellent data visualization and business intelligence tool used for reporting and analyzing vast volumes of data. It is an American company that 
+started in 2003—in June 2019, Salesforce acquired Tableau. It helps users create different charts, graphs, maps, dashboards, and stories for visualizing and analyzing
+data, to help in making business decisions.
+
+Ques 2 :- What are the different Tableau products available?
+Ans :- The Tableau Product Suite consists of
+       Tableau Desktop
+       Tableau Public
+       Tableau Online
+       Tableau Server
+       Tableau Reader
+       
+Ques 3 :- In Tableau, how many tables can you join at once?
+Ans :- In Tableau, we can join a maximum of 32 tables.
+
+Ques 4 :- What are the various types of connections you may establish with Tableau and your dataset?
+Ans :- File Systems such as CSV, Excel, etc.
+       Relational Systems such as Oracle, Sql Server, DB2, etc.
+       Cloud Systems such as Windows Azure, Google BigQuery, etc.
+       Other Sources using ODBC.
